@@ -1,0 +1,2 @@
+# Analyzing-NYC-High-School-Data
+we have explored relationships between SAT scores and demographic factors in New York City public schools, New York City has a significant immigrant population and is very diverse, so comparing demographic factors such as race, income, gender and other variables with SAT scores is a good way to determine whether the SAT is a fair test. For example, if certain racial groups have a correlation with the average score of SAT, they could have some evidence that the SAT is unfair.
