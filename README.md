@@ -22,7 +22,7 @@ The focus of this study is narrowed on high schools in New York City
 New York City makes its data on high school SAT scores available online, as well as the demographics for each high school. Below are the information to all the datasets used in this project;
 
 
-1. sat_results.csv  Data on [sat_scores](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e) - SAT scores for each high school in New York City
+1. sat_results.csv  [sat_scores](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e) - Data on SAT scores for each high school in New York City
 
 2. (hs_directory.csv) - Attendance information for each school in New York City
 
