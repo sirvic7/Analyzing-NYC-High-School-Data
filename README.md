@@ -19,21 +19,22 @@ Each school in New York City has a unique code called a DBN or district borough 
 Aggregating data by district allows us to use the district mapping data to plot district-by-district differences.
 
 The focus of this study is narrowed on high schools in New York City
-New York City makes its data on high school SAT scores available online, as well as the demographics for each high school. Below are the information to all the datasets used in this project;
+New York City makes its data on high school SAT scores available online, as well as the demographics for each high school. Below are the link to all the datasets used in this project;
 
 
-1. sat_results.csv  [sat_scores](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e) - Data on SAT scores for each high school in New York City
 
-2. (hs_directory.csv) - Attendance information for each school in New York City
+1. [ap_2010.csv](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e) Data on AP test results
 
-3. class_size.csv (Class Size) - Information on class size for each school
+2. [class_size.csv](https://data.cityofnewyork.us/Education/2010-2011-Class-Size-School-level-detail/urz7-pzb3) Data on class size
 
-4. ap_2010.csv (AP test results) - Advanced Placement (AP) exam results for each high school (passing an optional AP exam in a particular subject can earn a student college credit in that subject)
+3. [demographics.csv](https://data.cityofnewyork.us/Education/2006-2012-School-Demographics-and-Accountability-S/ihfw-zy9j)  Data on demographics
 
-5. graduation.csv (Graduation outcomes) - The percentage of students who graduated, and other outcome information
+4. [graduation.csv](https://data.cityofnewyork.us/Education/2005-2010-Graduation-Outcomes-School-Level/vh2h-md7a)  Data on graduation outcomes
 
-6. demographics.csv (Demographics) - Demographic information for each school
+5. [hs_directory.csv](https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2)  A directory of high schools
 
-7.survey_all.txt - Data on surveys from all schools
+6. [sat_results.csv](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4) Data on SAT scores
 
-8. survey_d75.txt - Data on surveys from New York City district 75
+7. [survey_all.txt](https://data.cityofnewyork.us/Education/2011-NYC-School-Survey/mnz3-dyi8) Data on surveys from all schools
+
+8. [survey_d75.txt](https://data.cityofnewyork.us/Education/2011-NYC-School-Survey/mnz3-dyi8) Data on surveys from New York City district 75
