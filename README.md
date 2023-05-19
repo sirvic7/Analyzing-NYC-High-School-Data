@@ -7,7 +7,7 @@ The SAT, or Scholastic Aptitude Test, is an exam that U.S. high school students 
 The test consists of three sections, each of which has 800 possible points. The combined score is out of 2,400 possible points (while this number has changed a few times, the dataset for this project is based on 2,400 total points). Organizations often rank high schools by their average SAT scores. The scores are also considered a measure of overall school district quality.
 
 The focus of this study is narrowed on high schools in New York City
-New York City makes its data on high school SAT scores available online, as well as the demographics for each high school. Below are the links to all the datasets used in this project;
+New York City makes its data on high school SAT scores available online, as well as the demographics for each high school. Below are the information to all the datasets used in this project;
 
 1. SAT scores by school - SAT scores for each high school in New York City
 
