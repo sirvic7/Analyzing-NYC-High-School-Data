@@ -21,9 +21,8 @@ Aggregating data by district allows us to use the district mapping data to plot 
 The focus of this study is narrowed on high schools in New York City
 New York City makes its data on high school SAT scores available online, as well as the demographics for each high school. Below are the information to all the datasets used in this project;
 
-[sat_results.csv](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e)- Sat results
 
-1. sat_results.csv (SAT scores by school) - SAT scores for each high school in New York City
+[sat_results.csv](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e) - SAT scores for each high school in New York City
 
 2. School attendance (hs_directory.csv) - Attendance information for each school in New York City
 
