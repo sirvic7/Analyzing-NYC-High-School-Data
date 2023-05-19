@@ -6,19 +6,33 @@ The SAT, or Scholastic Aptitude Test, is an exam that U.S. high school students 
 
 The test consists of three sections, each of which has 800 possible points. The combined score is out of 2,400 possible points (while this number has changed a few times, the dataset for this project is based on 2,400 total points). Organizations often rank high schools by their average SAT scores. The scores are also considered a measure of overall school district quality.
 
+New York City makes its data on high school SAT scores available online, as well as the demographics for each high school. Unfortunately, combining both of the datasets won't give us all of the demographic information we want to use. We'll need to supplement our data with other sources to do our full analysis.
+
+Before we move into coding, we'll need to get some backgroung information to give us a better understanding of how to combine and analyze the data.
+
+he below information are necessary;
+Only high school students take the SAT, so we'll want to focus on high schools.
+New York City is made up of five boroughs, which are essentially distinct regions.
+New York City schools fall within several different school districts, each of which can contain dozens of schools.
+Our datasets include several different types of schools. We'll need to clean them so that we can focus on high schools only.
+Each school in New York City has a unique code called a DBN or district borough number.
+Aggregating data by district allows us to use the district mapping data to plot district-by-district differences.
+
 The focus of this study is narrowed on high schools in New York City
 New York City makes its data on high school SAT scores available online, as well as the demographics for each high school. Below are the information to all the datasets used in this project;
 
-1. SAT scores by school - SAT scores for each high school in New York City
+1. sat_results.csv (SAT scores by school) - SAT scores for each high school in New York City
 
-2. School attendance - Attendance information for each school in New York City
+2. School attendance (hs_directory.csv) - Attendance information for each school in New York City
 
-3. Class Size - Information on class size for each school
+3. class_size.csv (Class Size) - Information on class size for each school
 
-4. AP test results - Advanced Placement (AP) exam results for each high school (passing an optional AP exam in a particular subject can earn a student college credit in that subject)
+4. ap_2010.csv (AP test results) - Advanced Placement (AP) exam results for each high school (passing an optional AP exam in a particular subject can earn a student college credit in that subject)
 
-5. Graduation outcomes - The percentage of students who graduated, and other outcome information
+5. graduation.csv (Graduation outcomes) - The percentage of students who graduated, and other outcome information
 
-6. Demographics - Demographic information for each school
+6. demographics.csv (Demographics) - Demographic information for each school
 
-7. School survey - Surveys of parents, teachers, and students at each school
+7.survey_all.txt - Data on surveys from all schools
+
+8. survey_d75.txt - Data on surveys from New York City district 75
