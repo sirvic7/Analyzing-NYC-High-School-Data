@@ -1,4 +1,4 @@
-# Analyzing-NYC-High-School-Data
+# Exploring the Impact of Race, Gender, and Districts on SAT Scores in NYC High Schools
 One of the most controversial issues in the U.S. educational system is the efficacy of standardized tests and whether they're unfair to certain groups. Hence, the aim of this project is to;
 
 Correlate between SAT scores and demographics. The study would seek to find correlation between SAT scores and factors like race, gender etc.
